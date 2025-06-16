@@ -9,11 +9,11 @@
 }
 
  body {
- background-image: url('yadz.png');
-    background-size: cover;
+    background-image: url('yadz.png');
+    background-size: cover;         /* Растягивает изображение на весь экран */
     background-repeat: no-repeat;
-    background-position: center top;
-    background-attachment: fixed;
+    background-position: center center;
+    background-attachment: fixed; 
     margin: 0;
     padding: 0;
 }
