@@ -9,10 +9,10 @@
 }
 
  body {
- background-image: url('fon.png');
+ background-image: url('yadz.png');
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position: center top;
     background-attachment: fixed;
     margin: 0;
     padding: 0;
@@ -24,13 +24,13 @@
 .link_baf {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   text-align:center;
-  color: black;
+  color: rgb(255, 255, 255);
   font-size: 30px;
 }
 .link_ban { 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   text-align:center;
-  color: black;
+  color: rgb(255, 255, 255);
   font-size: 30px;
 }
 .carousel-container {
@@ -86,3 +86,11 @@ button.next { right: 10px; }
   width: 100%;
   flex-shrink: 0;
   object-fit: cover;
+}
+.text_global {
+  color: rgb(255, 255, 255);
+}
+
+.text {
+  color: rgb(255, 255, 255);
+}
